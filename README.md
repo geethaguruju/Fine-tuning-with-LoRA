@@ -54,7 +54,7 @@ Train the LoRA-adapted RoBERTa model on AG News:
 | EPOCHS         | 3               |
 | LEARNING_RATE  | 1e-5            |
 | LORA_R         | 2               |
-| LORA_ALPHA     | 6               |
+| LORA_ALPHA     | 4               |
 | LORA_DROPOUT   | 0.05            |
 | AUGMENTATION   | True            |
 
