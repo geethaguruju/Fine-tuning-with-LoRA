@@ -64,7 +64,7 @@ Train the LoRA-adapted RoBERTa model on AG News:
 
 Run predictions on unlabeled test data:
 
--**python inference-1.py**
+- **python inference-1.py**
 
 
 - Loads the best saved model and tokenizer from `best_lora_finetuned_roberta_final/`.
