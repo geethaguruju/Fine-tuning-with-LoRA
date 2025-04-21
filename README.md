@@ -97,14 +97,6 @@ Run predictions on unlabeled test data:
 
 ---
 
-## Performance (Example)
-
-- **Validation Accuracy:** (Fill in your result, e.g., 92.4%)
-- **MC Dropout Accuracy:** (Fill in your result, e.g., 91.8%)
-- **Trainable Parameters:** (Check with `torchsummary.summary()`)
-
----
-
 ## References
 
 - LoRA: Low-Rank Adaptation of Large Language Models (Hu et al. 2021)
