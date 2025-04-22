@@ -81,6 +81,11 @@ Run predictions on unlabeled test data:
 
 ---
 
+## Accuracy Table
+
+![Alt Text](accuracy.jpeg)
+
+
 ## Dataset
 
 - **AG News:** Four-class news topic classification.
