@@ -83,7 +83,7 @@ Run predictions on unlabeled test data:
 
 ## Accuracy Table
 
-![Alt Text](accuracy.jpeg)
+![Alt Text](Accuracy.jpeg)
 
 
 ## Dataset
